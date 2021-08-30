@@ -1,3 +1,9 @@
+ignition-msgs6 (6.6.0-1~focal) focal; urgency=medium
+
+  * ignition-msgs6 6.6.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 30 Aug 2021 16:00:24 -0700
+
 ignition-msgs6 (6.5.0-1~focal) focal; urgency=medium
 
   * ignition-msgs6 6.5.0-1 release
